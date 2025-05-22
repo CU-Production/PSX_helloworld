@@ -1,4 +1,7 @@
 # PSX_helloworld
+
+![PSX cube](screenshots/Snipaste_2025-05-22_18-04-55.png)
+
 A basic psx/psone app
 
 # Config PSX toolchain
