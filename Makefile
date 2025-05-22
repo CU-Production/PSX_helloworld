@@ -1,7 +1,7 @@
 TARGET = cube
 TYPE = ps-exe
 
-SRCS = cub/cube.c \
+SRCS = cube/cube.c \
 ./common/crt0/crt0.s \
 
 CPPFLAGS += -I./psyq/include
